@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/kiki/openwrt'
+let g:netrw_dirhist_3='/usr/share/rofi/themes'
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_1='/home/kiki/dwm'
+let g:netrw_dirhist_0='/home/kiki/.oh-my-zsh/themes'
+let g:netrw_dirhist_9='/home/kiki/.oh-my-zsh'
+let g:netrw_dirhist_8='/home/kiki'
+let g:netrw_dirhist_7='/home/kiki/.oh-my-zsh'
+let g:netrw_dirhist_6='/home/kiki/.oh-my-zsh/themes'
+let g:netrw_dirhist_5='/home/kiki/.oh-my-zsh'
